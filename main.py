@@ -38,7 +38,7 @@ while True:
     cv2.imshow("img", frame)
 
     #"1" means wait for 1 millisecind then show different frame "0" means wait till something is pressed
-    key = cv2.waitKey(0)
+    key = cv2.waitKey(1)
 
     if key==27:
         break
