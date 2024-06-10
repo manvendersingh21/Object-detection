@@ -1,4 +1,7 @@
-# Object-detection
+# Object-detection Software
+
+Here I have created software that can detect objects using Python and libraries such as YOLO.
+https://youtu.be/VKtSHhJBJcE?si=rwefebFRlIPr1ruN
 
 
 For the longest time, I've wanted to pursue an object detection project, but I've struggled to find the right motivation and purpose to drive me. That is, until the recent Hackathon event, which provided me with the perfect inspiration and opportunity to bring this idea to life.
